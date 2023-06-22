@@ -30,7 +30,7 @@ public class CameraScope : MonoBehaviour
 ```
 This script takes the image rendered by the camera and copies it to a RenderTexture.
 
-![Script Attached](./images/script_attached.png)
+![Script Attached](./Tutorial Images/1.png)
 
 ### Step 3: Assigning the RenderTexture
 Create a new RenderTexture in your Assets (Right-click > Create > RenderTexture) and assign it to the `renderTexture` field in the CameraScope script on your camera.
