@@ -61,8 +61,5 @@ You can also download the example Unity package that contains a fully functional
 - **Simplicity**: It's easier to manage and troubleshoot issues with a single camera setup. The implementation is straightforward, making the development process more efficient.
 - **Flexibility**: Modifying material parameters for zoom and other effects is much simpler than handling a second camera. This makes it easier to implement different types of scopes or visual effects.
 
-## Contributing
-Contributions are welcome! Please read the [contributing guidelines](./CONTRIBUTING.md) to get started.
-
 ## License 
 This project is licensed under the [MIT License](./LICENSE).
