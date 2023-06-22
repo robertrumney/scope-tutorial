@@ -4,7 +4,7 @@ Welcome to the Scope Tutorial repository! In this tutorial, we will walk through
 
 Traditionally, creating a scope effect in a game could involve using two cameras; one for the player's main view, and another for the scope. However, this approach can be resource-intensive. In this tutorial, we'll demonstrate how to achieve a similar effect more efficiently by rendering the camera's view to a texture and applying it to the scope lens.
 
-![Scope Example](./images/scope_example.png)
+![Zoom Effect](./Images/6.png)
 
 ## Implementation 
 
@@ -49,7 +49,7 @@ To create a zoomed-in effect when looking through the scope, we need to modify t
 
 Finally, assign the material to the lens on your scope in the 3D model.
 
-![Zoom Effect](./Images/6.png)
+![Zoom Effect](./Images/5.png)
 
 ## Example Unity Package 
 You can also download the example Unity package that contains a fully functional example project with the scope system implemented. 
