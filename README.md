@@ -51,11 +51,6 @@ Finally, assign the material to the lens on your scope in the 3D model.
 
 ![Zoom Effect](./Images/5.png)
 
-## Example Unity Package 
-You can also download the example Unity package that contains a fully functional example project with the scope system implemented. 
-
-[Download Example Unity Package](./link_to_your_unity_package)
-
 ## Benefits of Using One Camera 📈
 - **Performance**: Using one camera consumes less processing power, as rendering the scene twice can be resource-intensive, especially on lower-end hardware.
 - **Simplicity**: It's easier to manage and troubleshoot issues with a single camera setup. The implementation is straightforward, making the development process more efficient.
