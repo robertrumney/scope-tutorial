@@ -47,7 +47,7 @@ To create a zoomed-in effect when looking through the scope, we need to modify t
 
 ![Zoom Effect](./Images/4.png)
 
-Finally, assign the material to the lens on your scope in the 3D model.
+Finally, assign the material to the lens on your scope in the 3D model. The black texture will change to the new scope view once the game is running.
 
 ![Zoom Effect](./Images/5.png)
 
