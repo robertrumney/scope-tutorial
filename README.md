@@ -51,7 +51,7 @@ Finally, assign the material to the lens on your scope in the 3D model.
 
 ![Zoom Effect](./Images/5.png)
 
-## Benefits of Using One Camera 📈
+## Benefits of Using One Camera
 - **Performance**: Using one camera consumes less processing power, as rendering the scene twice can be resource-intensive, especially on lower-end hardware.
 - **Simplicity**: It's easier to manage and troubleshoot issues with a single camera setup. The implementation is straightforward, making the development process more efficient.
 - **Flexibility**: Modifying material parameters for zoom and other effects is much simpler than handling a second camera. This makes it easier to implement different types of scopes or visual effects.
