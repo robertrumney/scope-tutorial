@@ -49,6 +49,8 @@ To create a zoomed-in effect when looking through the scope, we need to modify t
 
 Finally, assign the material to the lens on your scope in the 3D model.
 
+![Zoom Effect](./Images/6.png)
+
 ## Example Unity Package 
 You can also download the example Unity package that contains a fully functional example project with the scope system implemented. 
 
