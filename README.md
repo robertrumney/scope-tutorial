@@ -1,7 +1,5 @@
 # Scope Tutorial for Unity
 
-![Banner](./images/banner.png)
-
 Welcome to the Scope Tutorial repository! In this tutorial, we will walk through how to create an efficient scoping system in Unity using a single camera. 
 
 Traditionally, creating a scope effect in a game could involve using two cameras; one for the player's main view, and another for the scope. However, this approach can be resource-intensive. In this tutorial, we'll demonstrate how to achieve a similar effect more efficiently by rendering the camera's view to a texture and applying it to the scope lens.
