@@ -1,4 +1,4 @@
-# Scope Tutorial for Unity 🎯
+# Scope Tutorial for Unity
 
 ![Banner](./images/banner.png)
 
@@ -8,7 +8,7 @@ Traditionally, creating a scope effect in a game could involve using two cameras
 
 ![Scope Example](./images/scope_example.png)
 
-## Implementation 🛠️
+## Implementation 
 
 ### Step 1: Setting Up the Project
 Begin by creating a new 3D Unity project or use an existing one. Ensure you have a player character with a camera attached.
@@ -51,7 +51,7 @@ To create a zoomed-in effect when looking through the scope, we need to modify t
 
 Finally, assign the material to the lens on your scope in the 3D model.
 
-## Example Unity Package 📦
+## Example Unity Package 
 You can also download the example Unity package that contains a fully functional example project with the scope system implemented. 
 
 [Download Example Unity Package](./link_to_your_unity_package)
@@ -61,8 +61,8 @@ You can also download the example Unity package that contains a fully functional
 - **Simplicity**: It's easier to manage and troubleshoot issues with a single camera setup. The implementation is straightforward, making the development process more efficient.
 - **Flexibility**: Modifying material parameters for zoom and other effects is much simpler than handling a second camera. This makes it easier to implement different types of scopes or visual effects.
 
-## Contributing 🤝
+## Contributing
 Contributions are welcome! Please read the [contributing guidelines](./CONTRIBUTING.md) to get started.
 
-## License 📄
+## License 
 This project is licensed under the [MIT License](./LICENSE).
